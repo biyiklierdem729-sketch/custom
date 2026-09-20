@@ -1,0 +1,7 @@
+name: CustomAuth
+version: 1.0
+main: com.customauth.CustomAuth
+api-version: 1.16
+commands:
+  kayit:
+  giris:
